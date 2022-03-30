@@ -17,4 +17,4 @@ click git click check
 * override update
 > git reset --hard origin/main
 * rebers
-> git rebase (--continue | --abort | --skip)
+> git rebase (--continue | --abort | --skip) //
